@@ -1,2 +1,2 @@
 # Web-Hosting-Automation
-This project automates website deployment using Terraform, Docker, and AWS.  
+This project automates website deployment using Jenkins, Ansible, Docker, and AWS.  
